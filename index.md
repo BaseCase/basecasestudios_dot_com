@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Hi. Not much to say here yet, just using this site as a public dev log while I work on a game. This site can get fleshed out more later.
+# Welcome
+
+Hi. Not much to say here yet, just using this site as a public dev log while I work on a game.
