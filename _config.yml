@@ -1,26 +1,9 @@
+name: Base Case Studios
 title: Base Case Studios
-email:
-description: >-
-  Dev log for my game.
-baseurl: ""
-url: "http://basecasestudios.com"
-twitter_username: basecase
-github_username:  basecase
+description: tbh there's just one studio
+url: "https://basecasestudios.com"
 
-# Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+sass:
+  sass_dir: _scss
